@@ -27,3 +27,6 @@
 
 ### Load English language model using spaCy library: <br>    
         python3 -m spacy download en_core_web_sm 
+
+ ### Tensorflow: <br>
+        pip install tensorflow
