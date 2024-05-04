@@ -28,5 +28,10 @@
 ### Load English language model using spaCy library: <br>    
         python3 -m spacy download en_core_web_sm 
 
- ### Tensorflow: <br>
+### Tensorflow: <br>
         pip install tensorflow
+        
+### For Glove Pre-trained word embeddings write the commands, unzip the file and move the file named glove.6B.100d.txt on your code location: <br>
+        wget https://downloads.cs.stanford.edu/nlp/data/glove.6B.zip
+        
+        unzip -q glove.6B.zip
