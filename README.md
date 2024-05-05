@@ -35,3 +35,5 @@
         wget https://downloads.cs.stanford.edu/nlp/data/glove.6B.zip
         
         unzip -q glove.6B.zip
+### Download pre-trained Azerbaijani FastText file
+        wget https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.az.300.vec.gz
