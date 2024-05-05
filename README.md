@@ -35,5 +35,10 @@
         wget https://downloads.cs.stanford.edu/nlp/data/glove.6B.zip
         
         unzip -q glove.6B.zip
-### Download pre-trained Azerbaijani FastText file
+### Download pre-trained Azerbaijani FastText file<br>
         wget https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.az.300.vec.gz
+
+### Install Gensim
+This software depends on NumPy and Scipy, two Python packages for scientific computing.
+        pip install --upgrade gensim
+        pip install scipy
