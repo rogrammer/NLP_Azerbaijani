@@ -38,7 +38,7 @@
 ### Download pre-trained Azerbaijani FastText file<br>
         wget https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.az.300.vec.gz
 
-### Install Gensim
-This software depends on NumPy and Scipy, two Python packages for scientific computing.
+### Install Gensim<br>
+This software depends on NumPy and Scipy, two Python packages for scientific computing.<br>
         pip install --upgrade gensim
         pip install scipy
